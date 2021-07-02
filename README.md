@@ -2,10 +2,6 @@
   <p align="center">
      I'm a software developer who constantly seeks out innovative solutions to everyday problems. I've been honing my analytical thinking and collaboration skills and I love     working in a team.
   </p>
-  
-   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaAntunesJ&layout=compact&theme=radical"/>
-  </p>
 
   <div align="center">
     <h3>Languages and Databases:</h3>
