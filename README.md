@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! :v: I'm Mariana. :grinning: </h1>
   <p align="center">
-     I'm a software developer who constantly seeks out innovative solutions to everyday problems. I've been honing my analytical thinking and collaboration skills and I love     working in a team.
+     I'm a software developer who constantly seeks out innovative solutions to everyday problems. I've been honing my analytical thinking and collaboration skills.
   </p>
 
   <div align="center">
